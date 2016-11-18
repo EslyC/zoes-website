@@ -29,7 +29,12 @@ If you're interested, you can check out some more offerings from Bootstrap [here
 
 ### Icons
 All my sweet social icons came from FontAwesome, which is a super easy to use and free service.
-Just add the stylesheet import it to your page's `<head/>` like I do [here](https://github.com/zsobin/zoes-website/blob/master/public/index.html#L6).
+Just add the stylesheet import it to your page's `<head/>`.
+```
+<script src="https://use.fontawesome.com/dd33737fc7.js"></script>
+```
+
+(Example [here](https://github.com/zsobin/zoes-website/blob/master/public/index.html#L6).)
 
 You can check out all of FontAwesome's icons [here](http://fontawesome.io/icons/).
 
