@@ -16,14 +16,20 @@ If you're going to use Bootstrap, you need to run these commands to add it to yo
 npm install react-bootstrap --save
 npm install bootstrap@3 --save
 ```
-Then you need to import the css into your app like I do [here](https://github.com/zsobin/zoes-website/blob/master/src/index.js#L5-L6).
+Then you need to import the css into your app by adding these lines to your index.js file:
+```
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/css/bootstrap-theme.css';
+```
+(example [here](https://github.com/zsobin/zoes-website/blob/master/src/index.js#L5-L6))
+
 The bootstrap nav is easy to use and looks great. You can see it in the code [here](https://github.com/zsobin/zoes-website/blob/master/src/js/App.js#L20-L29).
 
-Check out some more offerings from Bootstrap [here](http://getbootstrap.com/css/).
+If you're interested, you can check out some more offerings from Bootstrap [here](http://getbootstrap.com/css/).
 
 ### Icons
 All my sweet social icons came from FontAwesome, which is a super easy to use and free service.
-Just add it to your page's `<head/>` like I do [here](https://github.com/zsobin/zoes-website/blob/master/public/index.html#L6).
+Just add the stylesheet import it to your page's `<head/>` like I do [here](https://github.com/zsobin/zoes-website/blob/master/public/index.html#L6).
 
 You can check out all of FontAwesome's icons [here](http://fontawesome.io/icons/).
 
