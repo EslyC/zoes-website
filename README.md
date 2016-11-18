@@ -42,9 +42,9 @@ You can check out all of FontAwesome's icons [here](http://fontawesome.io/icons/
 
 When you make some changes, remember to commit and push them up to master. That will make your changes deploy automatically to your Heroku site.
 
-`git add .`
-`git commit -m "made a change"`
-`git push origin master`
+- `git add .`
+- `git commit -m "made a change"`
+- `git push origin master`
 
 ### Simple first steps
 
