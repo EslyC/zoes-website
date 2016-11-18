@@ -1,3 +1,5 @@
+### Welcome!
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 Welcome to Me - A personal website
 
@@ -7,7 +9,7 @@ The best part about creating a basic personal website is the fruitful plethora o
 
 Feel free to ask me questions as you go or just poke around and see what you like. Here are some notable things:
 
-Bootstrap Nav etc
+### Bootstrap Nav etc
 
 If you're going to use Bootstrap, you need to run these commands to add it to your app:
 ```
@@ -19,13 +21,13 @@ The bootstrap nav is easy to use and looks great. You can see it in the code her
 
 Check out some more offerings from Bootstrap here: http://getbootstrap.com/css/
 
-Icons
+### Icons
 All my sweet social icons came from FontAwesome, which is a super easy to use and free service.
 Just add it to your page's `<head/>` like I do here: https://github.com/zsobin/zoes-website/blob/master/public/index.html#L6.
 
 You can check out all of FontAwesome's icons here: http://fontawesome.io/icons/
 
-Git Commit
+### Git Commit
 
 When you make some changes, remember to commit and push them up to master. That will make your changes deploy automatically to your Heroku site.
 
@@ -33,11 +35,12 @@ When you make some changes, remember to commit and push them up to master. That 
 `git commit -m "made a change"`
 `git push origin master`
 
-Simple first steps
+### Simple first steps
 
-Go to App.js and replace my name with yours so it appears in the title of tab.
-Replace my bio with yours in About.ejs. Maybe even insert a photo!
-Add another project to my projects page! Just copy and paste one of the `<div class="project-container">`s and change the text/image!
-Do you have Instagram? Facebook? Find the FontAwesome icon of your choice and add a link to whatever account you want in the contacts page (also maybe change the other links too lol)
-Do you have hobbies? Want to add your resume? Add another tab to the nav!
+- Go to App.js and replace my name with yours so it appears in the title of tab.
+- Replace my bio with yours in About.ejs. Maybe even insert a photo!
+- Add another project to my projects page! Just copy and paste one of the `<div class="project-container">`s and change the text/image!
+- Do you have Instagram? Facebook? Find the FontAwesome icon of your choice and add a link to whatever account you want in the contacts page (also maybe change the other links too lol)
+- Do you have hobbies? Want to add your resume? Add another tab to the nav!
+
 Good luck, ask for help, and google away!
